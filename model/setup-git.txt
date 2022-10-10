@@ -1,0 +1,13 @@
+git init
+
+git remote add origin git@github.com:llillies/abd-2022.git
+
+git add -A
+
+git config --global user.email "a.leite@aluno.ifsp.edu.br"
+
+git config --global user.email "Lidiane Anunciato"
+
+git commit -m "First commit"
+
+git push --set-upstream origin master
